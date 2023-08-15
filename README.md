@@ -5,7 +5,7 @@ The goals include
 * Identic PCB for blowpipe and wireless controller
 * Easy configurable
 * Using Wifi or Bluetooth as communication between the remote control and blow piep adapter
-* Measuing the set and create air pressure
+* Measuring the set and create air pressure
 * Worktime at last 4 hours on one charge
 * Reasonable cost effective
 
